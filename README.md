@@ -23,4 +23,8 @@ https://ccnu.ai-augmented.com/app/jx-web/mycourse/***/resource/***/***
 - [ ] 一键下载课程中的所有资源
 - [ ] ~~下载视频资源~~(由于脚本限制无法下载m3u8文件合并)
 
-可能会出一个python爬虫以实现以上功能
+~~可能会出一个python爬虫以实现以上功能~~  
+目前由于小雅前端界面有所改变，hook点无法正常使用，请使用python版  
+
+> [!NOTE]\
+> [python版在这](https://github.com/zhouxinghua001/CCNU-xiaoya-DownLoader-py)
