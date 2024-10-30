@@ -1,3 +1,5 @@
+[!] 目前已弃用，请转至[python版](https://github.com/CN-Grace/CCNU-xiaoya-DownLoader-py)
+
 # CCNU-xiaoya-DownLoader
 ## 关键词
 - 华中师范大学
