@@ -1,5 +1,6 @@
 > [!Warning]\
-> 目前已弃用，请转至[python版](https://github.com/CN-Grace/CCNU-xiaoya-DownLoader-py)
+> 目前已弃用，请转至[python版](https://github.com/CN-Grace/CCNU-xiaoya-DownLoader-py)  
+> 也可以去使用zygame1314佬的[小雅爬爬爬](https://github.com/zygame1314/XiaoyaDownloader)
 
 # CCNU-xiaoya-DownLoader
 ## 关键词
